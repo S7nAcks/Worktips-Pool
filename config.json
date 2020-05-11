@@ -31,7 +31,7 @@
         "enabled": true,
 	"mergedMining": false,
         "clusterForks": "auto",
-        "poolAddress": "WttaSQV93vCfo7g6ca6Z6gYN2jZ6bZWQeXg8KyGWrrapW6A1MGrpRZzQsP4SXdz5tEKicFmKSSTbqaXnfLQW8Ntu46BLV3XmAH",
+        "poolAddress": "WttaAvrSVC3CFHyDbPrDS8KfEzWdaetJvQMjBegCtH7pFkKmnb8JDGWU3etm3U41vq48wq49zrjMsGbB492wWesq2wxQsYBwY7",
         "intAddressPrefix": null,
         "blockRefreshInterval": 600,
         "minerTimeout": 600,
